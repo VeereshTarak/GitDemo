@@ -13,6 +13,9 @@ public class Veereshacademy {
 	@Test
 	public void Deletepost() {
 		System.out.println("Deletepost");
+		System.out.println("addpost");
+		System.out.println("draftpost");
+		System.out.println("screenshotpost");
 	}
 
 }
