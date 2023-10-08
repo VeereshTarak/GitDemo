@@ -9,6 +9,7 @@ public class Veereshacademy {
 		System.out.println("Postinsta");
 		System.out.println("postfacebook");
 		System.out.println("postwhatsapp");
+		System.out.println("deletepost");
 	}
 	@Test
 	public void Deletepost() {
@@ -16,6 +17,7 @@ public class Veereshacademy {
 		System.out.println("addpost");
 		System.out.println("draftpost");
 		System.out.println("screenshotpost");
+		System.out.println("addingpost");
 	}
 
 }
